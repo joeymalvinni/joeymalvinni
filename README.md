@@ -1,5 +1,5 @@
 <p align="center" href="https://github.com/joeymalvinni">
-    <img src="/data/JoeyBanner.svg"/></img>
+    <img src="/data/JoeyBanner.svg" width="80%"></img>
 </p>
 
 
