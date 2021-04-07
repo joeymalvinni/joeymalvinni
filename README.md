@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="data/JoeyBanner.svg" alt="Joey Malvinni" width="70%"/>
+  <img src="https://i.imgur.com/3MFIDPo.jpg" alt="Joey Malvinni" width="70%"/>
 </h1>
 
 ### Hello! 👋
