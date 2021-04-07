@@ -1,19 +1,26 @@
-<p align="center" href="https://github.com/joeymalvinni">
-    <img src="https://i.imgur.com/3MFIDPo.jpg" width="50%"></img>
-</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/joeymalvinni/joeymalvinni/master/JoeyBanner.svg" alt="Joey Malvinni" width="70%"/>
+</h1>
 
-<br>
+### Hello! 👋
 
-<h1 align="center">Hey! 👋</h1>
-<h2 align="left">My name is Joey Malvinni.</h2>
+#### I'm Joey, a Full-Stack Developer living near Los Angeles.
 
-<br>
+##### 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
-<h1 align="center">What I work on</h1>
-<h2 align="left">Almost all of my Github repositories have been written in Node.js (or Javascript)</h2>
+- ⚡ TurboDB: A high-level, blazing fast, and easy to use DBMS written in Node.js.
+    -  Status: 🟢 Active Work
+- 🖥️ joeymalvinni.com: My custom portfolio/website.
+    -  Status: 🟢 Active Work
+- 🎙️🔊 (Zarlino Solutions) Video Chat: A low-latency video chat for musicians, made with Node.js, Websockets, and WebRTC.
+    -  Status: 🟠 Work Scheduled
+- 🤖 Is-Threat: A NPM module dedicated to determining whether an IP address is malicious.
+    -  Status: 🟠 Work Scheduled
+- ⚙️ node-utils: An extremely fast, low level set of utils for Node.js:
+    - Status: 🔴 On Hold
 
-### Check out this cool repository!
+##### 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢
 
-<a href="https://github.com/joeymalvinni/webrtc-ip" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joeymalvinni&repo=webrtc-ip"/>
-</a>
+- 🏢 I'm currently creating **Zarlino Solutions**
+- 🔧 I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`
+- 🌍 I'm mostly active within the **Node.js Community**
