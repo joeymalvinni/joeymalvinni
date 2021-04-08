@@ -4,7 +4,21 @@
 
 ### Hello! 👋
 
-#### I'm Joey, a Full-Stack Developer living near Los Angeles.
+#### I'm Joey, a full-stack developer, classical guitarist, and soccer player living near Los Angeles.
+
+
+##### 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢
+
+In the coding world, I mostly work with Node.js and Javascript. I also code in Python and C++. 
+I also love playing soccer, classical guitar, and taking photos.
+I also enjoy participating in these hobbies:
+- Photography
+- Videography
+- Sound Engineering
+- Engineering
+- Hiking
+- Biking
+
 
 ##### 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
@@ -21,6 +35,6 @@
 
 ##### 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢
 
-- 🏢 I'm currently creating **Zarlino Solutions**
+- 🏢 I'm currently working on my company, **Zarlino Solutions**
 - 🔧 I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`
 - 🌍 I'm mostly active within the **Node.js Community**
