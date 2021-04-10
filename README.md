@@ -6,20 +6,6 @@
 
 #### I'm Joey, a full-stack developer, classical guitarist, and soccer player living near Los Angeles.
 
-
-##### 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢
-
-In the coding world, I mostly work with Node.js and Javascript. I also code in Python and C++. 
-I also love playing soccer, classical guitar, and taking photos.
-I also enjoy participating in these hobbies:
-- Photography
-- Videography
-- Sound Engineering
-- Engineering
-- Hiking
-- Biking
-
-
 ##### 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 - ⚡ TurboDB: A high-level, blazing fast, and easy to use DBMS written in Node.js.
