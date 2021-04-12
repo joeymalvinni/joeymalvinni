@@ -18,9 +18,3 @@
     -  Status: 🟠 Work Scheduled
 - ⚙️ node-utils: An extremely fast, low level set of utils for Node.js:
     - Status: 🔴 On Hold
-
-##### 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢
-
-- 🏢 I'm currently working on my company, **Zarlino Solutions**
-- 🔧 I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`
-- 🌍 I'm mostly active within the **Node.js Community**
